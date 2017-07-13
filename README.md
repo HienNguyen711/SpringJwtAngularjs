@@ -5,6 +5,8 @@
     Login and Registration Example Project with Spring Security: https://github.com/Baeldung/spring-security-registration <br>
     JWT Spring Security Demo: https://github.com/szerhusenBC/jwt-spring-security-demo <br>
 
+  // Todo: process message error resonse from backend
+
 # Requirements: 
 Maven 3, Java 1.8, Eclipse Neon 4.6.3 installed STS (Spring Tool Suite)
 
