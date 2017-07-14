@@ -36,4 +36,4 @@ If you want to use recaptcha for your site, then follow step 3, step 4, Step 5<b
 # Run: 
   Right Click on project > Run As > Spring Boot App<br>
   Login with admin role: username: admin, password: 123456<br>
-  Login with user role: username: admin, password: 123456<br>
+  Login with user role: username: user, password: 123456<br>
