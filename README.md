@@ -42,6 +42,10 @@ If you want to use recaptcha for your site, then follow step 3, step 4, Step 5<b
   * Home page:
   
     ![alt text](https://github.com/truonglehcm/SpringJwtAngularjs/blob/master/src/main/resources/static/img/home.PNG)
+    
+  * Post detail page:
+  
+    ![alt text](https://github.com/truonglehcm/SpringJwtAngularjs/blob/master/src/main/resources/static/img/post_detail.PNG)
   
   * Login page:
   
@@ -50,10 +54,6 @@ If you want to use recaptcha for your site, then follow step 3, step 4, Step 5<b
   * Signup page:
   
     ![alt text](https://github.com/truonglehcm/SpringJwtAngularjs/blob/master/src/main/resources/static/img/sign_up.PNG)
-    
-  * Post detail page:
-  
-    ![alt text](https://github.com/truonglehcm/SpringJwtAngularjs/blob/master/src/main/resources/static/img/post_detail.PNG)
         
   * Confirm reset password page:
   
