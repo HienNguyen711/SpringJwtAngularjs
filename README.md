@@ -2,8 +2,8 @@
   A simple demo using Spring Boot, Spring Data JPA, Angularjs, Jwt (Json Web Token), Satellizer, Google captcha... <br>
   
   Fork from: <br>
-    Login and Registration Example Project with Spring Security: https://github.com/Baeldung/spring-security-registration <br>
-    JWT Spring Security Demo: https://github.com/szerhusenBC/jwt-spring-security-demo <br>
+    [Login and Registration Example Project with Spring Security:](https://github.com/Baeldung/spring-security-registration)<br>
+    [JWT Spring Security Demo:](https://github.com/szerhusenBC/jwt-spring-security-demo)<br>
 
   // Todo: process message error resonse from backend
 
