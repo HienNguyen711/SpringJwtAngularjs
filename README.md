@@ -1,9 +1,9 @@
 # SpringJwtAngularjs
   A simple demo using Spring Boot, Spring Data JPA, Angularjs, Jwt (Json Web Token), Satellizer, Google captcha... <br>
   
-  Fork from: <br>
-    [Login and Registration Example Project with Spring Security:](https://github.com/Baeldung/spring-security-registration)<br>
-    [JWT Spring Security Demo:](https://github.com/szerhusenBC/jwt-spring-security-demo)<br>
+  Fork from:
+   * [Login and Registration Example Project with Spring Security](https://github.com/Baeldung/spring-security-registration)
+   * [JWT Spring Security Demo](https://github.com/szerhusenBC/jwt-spring-security-demo)
 
   // Todo: process message error resonse from backend
 
@@ -34,6 +34,6 @@ If you want to use recaptcha for your site, then follow step 3, step 4, Step 5<b
       PUBLIC_RECAPTCHA_KEY : 'your puplic site key'<br>
       
 # Run: 
-  Right Click on project > Run As > Spring Boot App<br>
-  Login with admin role: username: admin, password: 123456<br>
-  Login with user role: username: user, password: 123456<br>
+  * Right Click on project > Run As > Spring Boot App<br>
+  * Login with admin role: username: admin, password: 123456<br>
+  * Login with user role: username: user, password: 123456<br>
